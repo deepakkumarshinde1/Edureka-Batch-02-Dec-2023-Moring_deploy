@@ -1,0 +1,5 @@
+https://www.w3schools.com/html/html5_geolocation.asp
+
+https://www.jsdelivr.com/package/npm/intro.js
+
+https://excalidraw.com/#json=T82g4kyfxHMQEcNm12yQ7,cWkxef18WOSboKRCchKwOQ
